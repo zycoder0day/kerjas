@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thechefsidea.com/topik/sitemap.xml
+Sitemap: https://simpeg.unimed.ac.id/sitemap.xml
